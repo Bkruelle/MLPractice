@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+#Stuff in the work directory I don't want
+CityscapesDeeplabModel
+CityscapesDeeplabModel2
+CityscapeUnetModel
+numsUnetModel
+runs
+*.sw*
+.jupyter
+.ipython
+.ipynb_checkpoints
