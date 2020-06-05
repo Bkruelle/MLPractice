@@ -36,6 +36,8 @@ CityscapesDeeplabModel
 CityscapesDeeplabModel2
 CityscapeUnetModel
 numsUnetModel
+CityscapeResnet50Model
+CityscapeResnet101Model
 runs
 *.sw*
 .jupyter
